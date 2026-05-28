@@ -103,8 +103,8 @@ heart-failure-prediction/
 ## 👤 Author
 
 **[Ayush Kumar Jha]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@Ayush-kumar-jha953](https://github.com/Ayush-kumar-jha953)
+
 
 
 
