@@ -98,6 +98,11 @@ heart-failure-prediction/
 - **Logistic Regression** outperformed other models after hyperparameter tuning
 - Dataset had **no missing values** but required outlier treatment for RestingBP, Cholesterol, and Oldpeak
 
+- ## 💖 App Working
+
+- <img width="547" height="607" alt="image" src="https://github.com/user-attachments/assets/1932ec96-5bb9-4db6-948f-1090b2c130d5" />
+
+
 ---
 
 ## 👤 Author
