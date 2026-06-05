@@ -1,5 +1,6 @@
 import streamlit as st
 import pickle
+import numpy as np
 
 # 1. Page Configuration
 st.set_page_config(page_title="Heart Failure Predictor", layout="centered")
