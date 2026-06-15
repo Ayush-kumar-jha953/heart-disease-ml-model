@@ -6,7 +6,7 @@ import google.generativeai as genai
 
 # Configure Gemini API
 genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
-model_llm = genai.GenerativeModel('gemini-pro') # Initialize the generative model
+model_llm = genai.GenerativeModel('gemini-2.5-flash') # Initialize the generative model
 
 # 1. Page Configuration
 st.set_page_config(page_title="Heart Failure Predictor", layout="centered")
