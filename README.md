@@ -98,9 +98,26 @@ heart-failure-prediction/
 - **Logistic Regression** outperformed other models after hyperparameter tuning
 - Dataset had **no missing values** but required outlier treatment for RestingBP, Cholesterol, and Oldpeak
 
-- ## 💖 App Working
+## 💖 App Working
 
 - <img width="547" height="607" alt="image" src="https://github.com/user-attachments/assets/1932ec96-5bb9-4db6-948f-1090b2c130d5" />
+
+## Current Status
+
+- The project successfully integrates Google's Gemini API
+- for generating business-oriented explanations of model predictions.
+
+- The explanation module is currently disabled in the public
+- repository due to Gemini API free-tier quota limitations.
+
+- The underlying integration code is fully implemented and
+- can be activated by providing a valid Gemini API key.
+
+<img width="524" height="543" alt="image" src="https://github.com/user-attachments/assets/ea3d78b8-8ffd-4180-acf3-75a9ddb013e0" />
+
+
+
+
 
 
 ---
